@@ -1,6 +1,6 @@
 import React from 'react'
-// import CommentSection from '../commentsec/page'
-import Link from 'next/link'
+
+
 
 const Hero = () => {
   return (
